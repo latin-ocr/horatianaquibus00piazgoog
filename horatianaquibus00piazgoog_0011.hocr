@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./horatianaquibus00piazgoog/horatianaquibus00piazgoog_0011.png"; bbox 0 0 3000 5010; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 340 2068 1451 2141">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 340 2068 1451 2141">
+     <span class='ocr_line' id='line_1_1' title="bbox 340 2068 1451 2141; baseline 0.004 -19"><span class='ocrx_word' id='word_1_1' title='bbox 340 2068 463 2124; x_wconf 54' lang='lat' dir='ltr'><strong><em>Efferatto</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 483 2071 563 2141; x_wconf 76' lang='lat' dir='ltr'><em>daqli</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 579 2073 642 2126; x_wconf 80' lang='lat' dir='ltr'><em>Atti</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 660 2072 706 2126; x_wconf 84' lang='lat' dir='ltr'><strong><em>del</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 726 2073 757 2126; x_wconf 76' lang='lat' dir='ltr'><strong><em>R.</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 771 2071 883 2126; x_wconf 80' lang='lat' dir='ltr'><em>Istituto</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 907 2071 1010 2126; x_wconf 78' lang='lat' dir='ltr'><em>Veneto</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1030 2070 1061 2126; x_wconf 82' lang='lat' dir='ltr'><strong><em>di</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1076 2072 1194 2134; x_wconf 69' lang='lat' dir='ltr'><strong><em>sciense,</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1212 2070 1310 2125; x_wconf 82' lang='lat' dir='ltr'><em>lettere</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1328 2068 1365 2124; x_wconf 80' lang='lat' dir='ltr'><strong><em>ed</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1383 2071 1451 2127; x_wconf 80' lang='lat' dir='ltr'><em>arei.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 606 2161 1171 2224">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 606 2161 1171 2224">
+     <span class='ocr_line' id='line_1_2' title="bbox 606 2161 1171 2224; baseline -0.004 -7"><span class='ocrx_word' id='word_1_13' title='bbox 606 2164 695 2217; x_wconf 83' lang='lat' dir='ltr'><em>Tomo</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 718 2163 765 2224; x_wconf 88' lang='lat' dir='ltr'><strong><em>VI,</em></strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 785 2163 864 2217; x_wconf 79' lang='lat' dir='ltr'><strong><em>Serie</em></strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 887 2161 952 2217; x_wconf 81' lang='lat' dir='ltr'><em>VII.</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 971 2191 1005 2202; x_wconf 91' lang='lat'>-</span> <span class='ocrx_word' id='word_1_18' title='bbox 1026 2161 1171 2216; x_wconf 78' lang='lat'><em>1894-95.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1504 5010">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1504 5010">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1504 5010; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1504 5010; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
